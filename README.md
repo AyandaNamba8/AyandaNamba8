@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyandaNamba8
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Development
+- 🌱 I am currently a Software Development student
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me email me @ayanda.namba84@gmail.com or WhatsApp me on +27620363260.
 
